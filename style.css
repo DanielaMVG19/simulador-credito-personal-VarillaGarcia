@@ -54,8 +54,6 @@ button {
 button:hover {
   background-color: #002850;
 }
-
-/* Estilos de la tabla de amortización */
 table {
   width: 100%;
   border-collapse: collapse;
